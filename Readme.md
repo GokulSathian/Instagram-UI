@@ -1,48 +1,13 @@
-MDN- Mozilla Developer Network
+# Instagram UI Clone
 
-VS Code Ext
-    ! - Emmet Abbreviation
-    LiveServer
-    HTMLhint
-    Autosave
+This project is a simple Instagram UI clone created using HTML and CSS.
 
-Chrome
-    Colorzilla extension
-    Inspect
-    Flexboxfroggy.com
+## Preview
 
-HTML- Skeleton
-    Tags
-        a-anchor
-        h1-h7 
-        button
-        class,id
-    Head
-    Body
-    Metadata
-    div- containers
+![Instagram UI Clone](./preview.png)
 
-CSS - Styling HTML
-    Selectors - Every Tags are selectors
-    Property -Color,Fontd,Transperency
-    Value    
+## Features
 
-    Concepts
-        Box Model
-            Inspector Tool
-        
-        Pseudo-Class
-            An Element can have different states    
-                For eex: Changing color while hovering
-
-
-Javascript - Interactions
-
-UI
-    Componenets and Layout
-    
-    Layout
-        Vertical
-        Horizontal
-    
-    Assets
+- Responsive design for various screen sizes.
+- Basic structure mimicking the Instagram layout.
+- Uses Font Awesome for icons.
